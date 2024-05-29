@@ -7,5 +7,5 @@
 
 <h3>My Stats 💯</h3>
 
-<p><img width="415" align="left" src="https://github-readme-stats.vercel.app/api?username=9OmP&show_icons=true&locale=en" alt="harshitgupta028" /></p> <p> <img width="315" align="left"
-src="https://github-readme-stats.vercel.app/api/top-langs?username=9OmP&show_icons=true&locale=en&layout=compact&onedark" alt="harshitgupta028" /></p>
+<p><img width="415" align="left" src="https://github-readme-stats.vercel.app/api?username=9OmP&show_icons=true&locale=en" alt="9OmP" /></p> <p> <img width="315" align="left"
+src="https://github-readme-stats.vercel.app/api/top-langs?username=9OmP&show_icons=true&locale=en&layout=compact&radical" alt="9OmP" /></p>
