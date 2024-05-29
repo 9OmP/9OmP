@@ -8,5 +8,5 @@
 <h3>My Stats 💯</h3>
 
 ![Om's GitHub stats](https://github-readme-stats.vercel.app/api?username=9OmP&show_icons=true&theme=radical)
-\n
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=9OmP&layout=compact&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=9OmP&layout=pie&theme=radical)](https://github.com/9OmP/github-readme-stats)
