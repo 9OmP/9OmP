@@ -1,4 +1,4 @@
-![Rotating Words](./rotating-words.svg)
+![Rotating Words](./template.svg)
 
 
 
