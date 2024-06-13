@@ -4,6 +4,7 @@
       font-family: Arial, sans-serif;
       font-size: 24px;
       fill: black;
+      animation: textAnimation 11s infinite; /* Adjust the total duration as needed */
     }
     .letter {
       opacity: 0;
@@ -29,6 +30,15 @@
     @keyframes disappear {
       from { opacity: 1; transform: translateY(0); }
       to { opacity: 0; transform: translateY(-20px); }
+    }
+
+    @keyframes textAnimation {
+      0%, 100% {
+        opacity: 0;
+      }
+      20%, 80% {
+        opacity: 1;
+      }
     }
   </style>
   <text x="50%" y="50%" class="text" dominant-baseline="middle" text-anchor="middle">
