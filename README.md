@@ -20,7 +20,7 @@
 <h2 align="left">Hi 👋! My name is Sushant and I'm a from ....</h2>
 
 
-<img src="https://raw.githubusercontent.com/9OmP/9OmP/output/snake.svg" alt="Snake animation" />
+![](https://raw.githubusercontent.com/9OmP/9OmP/output/github-contribution-grid-snake.svg)
 
 ###
 
