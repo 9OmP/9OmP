@@ -7,15 +7,19 @@
     }
     .letter {
       opacity: 0;
-      animation: appear 3s forwards, disappear 3s forwards 6s;
+      animation: appear 0.5s forwards, disappear 0.5s forwards 5s;
     }
-    .letter:nth-child(1) { animation-delay: 0.5s, 6.5s; }
-    .letter:nth-child(2) { animation-delay: 1s, 7s; }
-    .letter:nth-child(3) { animation-delay: 1.5s, 7.5s; }
-    .letter:nth-child(4) { animation-delay: 2s, 8s; }
-    .letter:nth-child(5) { animation-delay: 2.5s, 8.5s; }
-    .letter:nth-child(6) { animation-delay: 3s, 9s; }
-    .letter:nth-child(7) { animation-delay: 3.5s, 9.5s; }
+    .letter:nth-child(1) { animation-delay: 0.5s, 5.5s; }
+    .letter:nth-child(2) { animation-delay: 1s, 6s; }
+    .letter:nth-child(3) { animation-delay: 1.5s, 6.5s; }
+    .letter:nth-child(4) { animation-delay: 2s, 7s; }
+    .letter:nth-child(5) { animation-delay: 2.5s, 7.5s; }
+    .letter:nth-child(6) { animation-delay: 3s, 8s; }
+    .letter:nth-child(7) { animation-delay: 3.5s, 8.5s; }
+    .letter:nth-child(8) { animation-delay: 4s, 9s; }
+    .letter:nth-child(9) { animation-delay: 4.5s, 9.5s; }
+    .letter:nth-child(10) { animation-delay: 5s, 10s; }
+    .letter:nth-child(11) { animation-delay: 5.5s, 10.5s; }
     
     @keyframes appear {
       from { opacity: 0; transform: translateY(20px); }
