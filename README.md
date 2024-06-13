@@ -14,6 +14,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=9OmP&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-![snake gif](https://github.com/9OmP/9OmP/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/9OmP/9OmP/blob/output/github-contribution-grid-snake.svg)
 
 
