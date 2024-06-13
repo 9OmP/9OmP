@@ -4,39 +4,40 @@
       font-family: Arial, sans-serif;
       font-size: 24px;
       fill: black;
-      animation: textAnimation 11s infinite; /* Adjust the total duration as needed */
+      opacity: 0;
+      animation: textAnimation 6s infinite; /* Adjust the total duration as needed */
     }
     .letter {
       opacity: 0;
-      animation: appear 0.5s forwards, disappear 0.5s forwards 5s;
-    }
-    .letter:nth-child(1) { animation-delay: 0.5s, 5.5s; }
-    .letter:nth-child(2) { animation-delay: 1s, 6s; }
-    .letter:nth-child(3) { animation-delay: 1.5s, 6.5s; }
-    .letter:nth-child(4) { animation-delay: 2s, 7s; }
-    .letter:nth-child(5) { animation-delay: 2.5s, 7.5s; }
-    .letter:nth-child(6) { animation-delay: 3s, 8s; }
-    .letter:nth-child(7) { animation-delay: 3.5s, 8.5s; }
-    .letter:nth-child(8) { animation-delay: 4s, 9s; }
-    .letter:nth-child(9) { animation-delay: 4.5s, 9.5s; }
-    .letter:nth-child(10) { animation-delay: 5s, 10s; }
-    .letter:nth-child(11) { animation-delay: 5.5s, 10.5s; }
-    
-    @keyframes appear {
-      from { opacity: 0; transform: translateY(20px); }
-      to { opacity: 1; transform: translateY(0); }
+      animation: fadeIn 0.8s forwards;
     }
 
-    @keyframes disappear {
-      from { opacity: 1; transform: translateY(0); }
-      to { opacity: 0; transform: translateY(-20px); }
+    .letter:nth-child(1) { animation-delay: 0.2s; }
+    .letter:nth-child(2) { animation-delay: 0.4s; }
+    .letter:nth-child(3) { animation-delay: 0.6s; }
+    .letter:nth-child(4) { animation-delay: 0.8s; }
+    .letter:nth-child(5) { animation-delay: 1s; }
+    .letter:nth-child(6) { animation-delay: 1.2s; }
+    .letter:nth-child(7) { animation-delay: 1.4s; }
+    .letter:nth-child(8) { animation-delay: 1.6s; }
+    .letter:nth-child(9) { animation-delay: 1.8s; }
+    .letter:nth-child(10) { animation-delay: 2s; }
+    .letter:nth-child(11) { animation-delay: 2.2s; }
+
+    @keyframes fadeIn {
+      0% {
+        opacity: 0;
+      }
+      100% {
+        opacity: 1;
+      }
     }
 
     @keyframes textAnimation {
       0%, 100% {
         opacity: 0;
       }
-      20%, 80% {
+      50%, 75% {
         opacity: 1;
       }
     }
