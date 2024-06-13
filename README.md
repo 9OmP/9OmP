@@ -1,16 +1,8 @@
-![Rotating Text](./rotating-text.svg)
 
 
+<h3> Hi there 👋, I'm Om Patil 🤵‍ and  I am a </h3>
 
-
-
-
-
-
-
-
-
-<h3> Hi there 👋, I'm Om Patil 🤵‍</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=18F7DE&random=false&width=435&lines=ML+Engineer;Data+Scientist;Python+Developer)](https://git.io/typing-svg)
 
 - 👨‍💻 Programming Languages:  Python, HTML, CSS & Javascript. 
 - 💻 Frontend: HTML,CSS & Javascript.
