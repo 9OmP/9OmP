@@ -1,3 +1,14 @@
+![Rotating Words](./rotating-words.svg)
+
+
+
+
+
+
+
+
+
+
 <h3> Hi there 👋, I'm Om Patil 🤵‍</h3>
 
 - 👨‍💻 Programming Languages:  Python, HTML, CSS & Javascript. 
