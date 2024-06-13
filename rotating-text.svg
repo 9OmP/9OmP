@@ -1,0 +1,33 @@
+<svg width="400" height="50" viewBox="0 0 400 50" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .text {
+      font-family: Arial, sans-serif;
+      font-size: 24px;
+      fill: black;
+    }
+    .word {
+      opacity: 0;
+      animation: showWord 9s infinite;
+    }
+    .word:nth-child(1) {
+      animation-delay: 0s;
+    }
+    .word:nth-child(2) {
+      animation-delay: 3s;
+    }
+    .word:nth-child(3) {
+      animation-delay: 6s;
+    }
+    @keyframes showWord {
+      0%, 100% { opacity: 0; transform: translateY(50px); }
+      10%, 30% { opacity: 1; transform: translateY(0); }
+      40%, 60% { opacity: 1; transform: translateY(0); }
+      70%, 90% { opacity: 0; transform: translateY(-50px); }
+    }
+  </style>
+  <text x="50%" y="50%" class="text" dominant-baseline="middle" text-anchor="middle">
+    <tspan class="word">ML Engineer</tspan>
+    <tspan class="word">Data Scientist</tspan>
+    <tspan class="word">Python Developer</tspan>
+  </text>
+</svg>
