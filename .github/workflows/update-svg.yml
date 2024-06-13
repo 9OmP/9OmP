@@ -29,7 +29,7 @@ jobs:
           <tspan class=\"word\" id=\"word2\" x=\"10\" dy=\"1.2em\">Data Scientist</tspan>
           <tspan class=\"word\" id=\"word3\" x=\"10\" dy=\"1.2em\">Python Developer</tspan>
         </text>
-      </svg>" > rotating-words.svg
+      </svg>" > rotating-text.svg
     - name: Commit and Push
       run: |
         git config --global user.name 'github-actions[bot]'
