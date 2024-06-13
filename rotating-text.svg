@@ -5,29 +5,39 @@
       font-size: 24px;
       fill: black;
     }
-    .word {
+    .letter {
       opacity: 0;
-      animation: showWord 9s infinite;
+      animation: appear 3s forwards, disappear 3s forwards 6s;
     }
-    .word:nth-child(1) {
-      animation-delay: 0s;
+    .letter:nth-child(1) { animation-delay: 0.5s, 6.5s; }
+    .letter:nth-child(2) { animation-delay: 1s, 7s; }
+    .letter:nth-child(3) { animation-delay: 1.5s, 7.5s; }
+    .letter:nth-child(4) { animation-delay: 2s, 8s; }
+    .letter:nth-child(5) { animation-delay: 2.5s, 8.5s; }
+    .letter:nth-child(6) { animation-delay: 3s, 9s; }
+    .letter:nth-child(7) { animation-delay: 3.5s, 9.5s; }
+    
+    @keyframes appear {
+      from { opacity: 0; transform: translateY(20px); }
+      to { opacity: 1; transform: translateY(0); }
     }
-    .word:nth-child(2) {
-      animation-delay: 3s;
-    }
-    .word:nth-child(3) {
-      animation-delay: 6s;
-    }
-    @keyframes showWord {
-      0%, 20%, 100% { opacity: 0; transform: translateY(20px); }
-      25%, 45% { opacity: 1; transform: translateY(0); }
-      50%, 70% { opacity: 1; transform: translateY(0); }
-      75%, 95% { opacity: 0; transform: translateY(-20px); }
+
+    @keyframes disappear {
+      from { opacity: 1; transform: translateY(0); }
+      to { opacity: 0; transform: translateY(-20px); }
     }
   </style>
   <text x="50%" y="50%" class="text" dominant-baseline="middle" text-anchor="middle">
-    <tspan class="word">ML Engineer</tspan>
-    <tspan class="word">Data Scientist</tspan>
-    <tspan class="word">Python Developer</tspan>
+    <tspan class="letter">M</tspan>
+    <tspan class="letter">L</tspan>
+    <tspan class="letter"> </tspan>
+    <tspan class="letter">E</tspan>
+    <tspan class="letter">n</tspan>
+    <tspan class="letter">g</tspan>
+    <tspan class="letter">i</tspan>
+    <tspan class="letter">n</tspan>
+    <tspan class="letter">e</tspan>
+    <tspan class="letter">e</tspan>
+    <tspan class="letter">r</tspan>
   </text>
 </svg>
