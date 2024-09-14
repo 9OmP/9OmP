@@ -4,7 +4,7 @@
 
 
 - 👨‍💻 Programming Languages: Python, HTML, CSS & Javascript. 
-- 💻 Frontend: HTML, CSS, React JS.
+- 💻 Frontend: HTML, CSS and React JS.
 - 🦄 Frameworks: Express.
 - 📫 How to reach me: ompatil16022002@gmail.com
 
