@@ -12,7 +12,7 @@
 
 ![Om's GitHub stats](https://github-readme-stats.vercel.app/api?username=9OmP&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=9OmP&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=9OmP&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2032%20mins-blue)
