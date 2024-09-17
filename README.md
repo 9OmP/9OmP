@@ -12,7 +12,7 @@
 
 ![Om's GitHub stats](https://github-readme-stats.vercel.app/api?username=9OmP&show_icons=true&theme=radical)
 
-<figure><embed src="https://wakatime.com/share/@9OmP/07c0e3d5-52b3-415b-879e-c8de52660c49.svg"></embed></figure>
+![WakaTime Stats](https://wakatime.com/share/@9OmP/07c0e3d5-52b3-415b-879e-c8de52660c49.svg)
 
 <!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=9OmP&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
