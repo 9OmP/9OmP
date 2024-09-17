@@ -3,7 +3,7 @@ name: Waka Readme
 on:
   schedule:
     # Runs at 12am IST (adjusted to UTC time)
-    - cron: '30 18 * * *'
+    - cron: '0 * * * *'
   workflow_dispatch:  # Allows manual execution from the GitHub Actions tab
 
 jobs:
@@ -23,3 +23,5 @@ jobs:
           SHOW_SHORT_INFO: "False"
           SHOW_LOC_CHART: "False"
           DEBUG_LOGGING: "False"
+          SHOW_LANGUAGE_PER_REPO: "True"
+          
