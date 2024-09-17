@@ -17,46 +17,11 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2032%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 135.1 kB Used in GitHub's Storage 
- > 
-> 🏆 173 Contributions in the Year 2024
- > 
-> 💼 Opted to Hire
- > 
-> 📜 29 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                46 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
-🌆 Daytime                112 commits         ████████░░░░░░░░░░░░░░░░░   33.14 % 
-🌃 Evening                103 commits         ████████░░░░░░░░░░░░░░░░░   30.47 % 
-🌙 Night                  77 commits          ██████░░░░░░░░░░░░░░░░░░░   22.78 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   17 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
-Tuesday                  37 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
-Wednesday                31 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
-Thursday                 147 commits         ███████████░░░░░░░░░░░░░░   43.49 % 
-Friday                   27 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
-Saturday                 30 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
-Sunday                   49 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
-```
-
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Asia/Kolkata
-
 💬 Programming Languages: 
 JavaScript               1 hr 13 mins        █████████████░░░░░░░░░░░░   53.00 % 
 HTML                     1 hr 2 mins         ███████████░░░░░░░░░░░░░░   44.97 % 
@@ -85,12 +50,8 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/9OmP/9OmP/main/assets/bar_graph.png)
-
-
- Last Updated on 17/09/2024 01:14:44 UTC
+ Last Updated on 17/09/2024 01:23:33 UTC
 <!--END_SECTION:waka-->
 
 ![snake gif](https://github.com/9OmP/9OmP/blob/output/github-contribution-grid-snake-dark.svg)
