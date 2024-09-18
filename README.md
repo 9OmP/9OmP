@@ -12,9 +12,9 @@
 
 ![Om's GitHub stats](https://github-readme-stats.vercel.app/api?username=9OmP&show_icons=true&theme=radical)
 
-<img src="https://wakatime.com/share/@9OmP/07c0e3d5-52b3-415b-879e-c8de52660c49.svg" alt="WakaTime Stats" width="600"/>
+# My Wakatime Stats
 
-
+<img src="./assets/wakatime-stats.svg" alt="Wakatime Stats" width="600"/>
 
 <!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=9OmP&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
