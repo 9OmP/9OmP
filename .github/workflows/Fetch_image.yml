@@ -1,0 +1,25 @@
+name: Fetch Wakatime Image
+
+on:
+  schedule:
+    - cron: '0 * * * *' # Runs every hour
+  workflow_dispatch: # Allows you to run the workflow manually from GitHub Actions
+
+jobs:
+  fetch_image:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout the repository
+      uses: actions/checkout@v2
+
+    - name: Fetch Wakatime image
+      run: |
+        wget -O wakatime-stats.svg https://wakatime.com/share/@9OmP/07c0e3d5-52b3-415b-879e-c8de52660c49.svg
+
+    - name: Commit and push the image
+      run: |
+        git config --global user.name 'GitHub Actions'
+        git config --global user.email 'actions@github.com'
+        git add wakatime-stats.svg
+        git commit -m 'Update Wakatime stats'
+        git push
