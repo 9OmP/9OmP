@@ -12,7 +12,7 @@
 
 ![Om's GitHub stats](https://github-readme-stats.vercel.app/api?username=9OmP&show_icons=true&theme=radical)
 
-<img src="[https://wakatime.com/share/@9OmP/07c0e3d5-52b3-415b-879e-c8de52660c49.svg](https://wakatime.com/share/@9OmP/07c0e3d5-52b3-415b-879e-c8de52660c49.svg)" alt="WakaTime Stats" width="600"/>
+<img src="https://wakatime.com/share/@9OmP/07c0e3d5-52b3-415b-879e-c8de52660c49.svg" alt="WakaTime Stats" width="600"/>
 
 
 
