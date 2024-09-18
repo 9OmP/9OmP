@@ -1,9 +1,9 @@
 <h3> Hello, I am Om Patil and I am a</h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7F6&random=false&width=435&lines=Python+Developer;Java+Developmer;Data+Scientist;Machine+Learning+Engineer;Deep+Learning+Engineer;Artificial+Intelligence+Engineer;Data+Analyst;Python+Developer;Computer+Vision+Specialist;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7F6&random=false&width=435&lines=Python+Developer;Full+Stack+Developer;Java+Developmer;Data+Scientist;Machine+Learning+Engineer;Deep+Learning+Engineer;Artificial+Intelligence+Engineer;Data+Analyst;Python+Developer;Computer+Vision+Specialist;)](https://git.io/typing-svg)
 
 
-- 👨‍💻 Programming Languages: Python, HTML, CSS & Javascript. 
+- 👨‍💻 Programming Languages: Python, Java, HTML, CSS & Javascript. 
 - 💻 Frontend: HTML, CSS and React JS.
 - 🦄 Frameworks: Express.
 - 📫 How to reach me: ompatil16022002@gmail.com
