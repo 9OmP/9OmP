@@ -19,7 +19,7 @@
 <!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=9OmP&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-11%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-11%20hrs%2039%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
 
@@ -57,7 +57,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/09/2024 02:43:15 UTC
+ Last Updated on 18/09/2024 03:19:16 UTC
 <!--END_SECTION:waka-->
 
 ![snake gif](https://github.com/9OmP/9OmP/blob/output/github-contribution-grid-snake-dark.svg)
