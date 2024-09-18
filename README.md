@@ -14,7 +14,7 @@
 
 # My Wakatime Stats
 
-<img src="./assets/wakatime-stats.svg" alt="Wakatime Stats" width="600"/>
+<img src="wakatime-stats.svg" alt="Wakatime Stats" width="600"/>
 
 <!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=9OmP&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
