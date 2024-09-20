@@ -10,8 +10,6 @@
 
 <h3>My Stats 💯</h3>
 
-![Om's GitHub stats](https://github-readme-stats.vercel.app/api?username=9OmP&show_icons=true&theme=radical)
-
 <img src="wakatime-stats.svg" alt="Wakatime Stats" width="600"/>
 
 <!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=9OmP&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
@@ -58,6 +56,8 @@ CSS                      1 repo              █░░░░░░░░░░�
 
  Last Updated on 20/09/2024 14:17:08 UTC
 <!--END_SECTION:waka-->
+
+![Om's GitHub stats](https://github-readme-stats.vercel.app/api?username=9OmP&show_icons=true&theme=radical)
 
 ![snake gif](https://github.com/9OmP/9OmP/blob/output/github-contribution-grid-snake-dark.svg)
 
