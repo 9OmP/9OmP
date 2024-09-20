@@ -12,8 +12,6 @@
 
 ![Om's GitHub stats](https://github-readme-stats.vercel.app/api?username=9OmP&show_icons=true&theme=radical)
 
-# My Wakatime Stats
-
 <img src="wakatime-stats.svg" alt="Wakatime Stats" width="600"/>
 
 <!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=9OmP&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
