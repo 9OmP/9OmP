@@ -1,13 +1,16 @@
-<h3>Hello, I'm Om Patil, and I am a:</h3>
+<h3>Hello, I'm Om Patil, and I specialize in:</h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7F6&width=435&lines=Python+Developer;Full+Stack+Developer;Java+Developer;Data+Analyst)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7F6&width=435&lines=Full+Stack+Developer;Node.js+Backend+Expert;React+Frontend+Developer)](https://git.io/typing-svg)
 
 <ul>
-  <li>👨‍💻 <strong>Programming Languages</strong>: Python, Java, HTML, CSS, and JavaScript</li>
-  <li>💻 <strong>Frontend</strong>: HTML, Tailwind CSS, React JS</li>
-  <li>🦄 <strong>Backend</strong>: Node.js with Express, Hono</li>
-  <li>📫 <strong>How to reach me</strong>: <a href="mailto:ompatil16022002@gmail.com">ompatil16022002@gmail.com</a></li>
+  <li>👨‍💻 <strong>Languages</strong>: JavaScript (TypeScript), Python, Java, HTML, CSS</li>
+  <li>💻 <strong>Frontend</strong>: React, Tailwind CSS, State Management (Recoil) </li>
+  <li>🦄 <strong>Backend</strong>: Node.js, Express, Prisma, Serverless Architectures </li>
+  <li>📊 <strong>Databases</strong>: MongoDB, Postgres</li>
+  <li>🚀 <strong>DevOps</strong>: Nginx, Reverse Proxies</li>
+  <li>📫 <strong>Contact</strong>: <a href="mailto:ompatil16022002@gmail.com">ompatil16022002@gmail.com</a></li>
 </ul>
+
 
 <h3>My Stats 💯</h3>
 
