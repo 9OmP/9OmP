@@ -5,7 +5,7 @@
 
 - 👨‍💻 Programming Languages: Python, Java, HTML, CSS & Javascript. 
 - 💻 Frontend: HTML, Tailwind CSS and React JS.
-- 🦄 Backend: Express, Hono
+- 🦄 Backend: NodeJS with Express, Hono
 - 📫 How to reach me: ompatil16022002@gmail.com
 
 <h3>My Stats 💯</h3>
