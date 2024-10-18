@@ -4,8 +4,8 @@
 
 <ul>
   <li>👨‍💻 <strong>Languages</strong>: TypeScript, Python, Java, HTML, CSS</li>
-  <li>💻 <strong>Frontend</strong>: React, Tailwind CSS, State Management (Recoil) </li>
-  <li>🦄 <strong>Backend</strong>: Node.js, Express, Prisma, Serverless Architectures </li>
+  <li>💻 <strong>Frontend</strong>: React, Tailwind CSS,  </li>
+  <li>🦄 <strong>Backend</strong>: Node.js, Express, Prisma, Serverless </li>
   <li>📊 <strong>Databases</strong>: MongoDB, Postgres</li>
   <li>🚀 <strong>DevOps</strong>: Nginx, Reverse Proxies</li>
   <li>📫 <strong>Contact</strong>: <a href="mailto:ompatil16022002@gmail.com">ompatil16022002@gmail.com</a></li>
