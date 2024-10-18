@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7F6&width=435&lines=Full+Stack+Developer;Node.js+Backend+Expert;React+Frontend+Developer)](https://git.io/typing-svg)
 
 <ul>
-  <li>👨‍💻 <strong>Languages</strong>: JavaScript (TypeScript), Python, Java, HTML, CSS</li>
+  <li>👨‍💻 <strong>Languages</strong>: TypeScript, Python, Java, HTML, CSS</li>
   <li>💻 <strong>Frontend</strong>: React, Tailwind CSS, State Management (Recoil) </li>
   <li>🦄 <strong>Backend</strong>: Node.js, Express, Prisma, Serverless Architectures </li>
   <li>📊 <strong>Databases</strong>: MongoDB, Postgres</li>
