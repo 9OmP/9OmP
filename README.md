@@ -1,12 +1,13 @@
-<h3> Hello, I am Om Patil and I am a</h3>
+<h3>Hello, I'm Om Patil, and I am a:</h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7F6&random=false&width=435&lines=Python+Developer;Full+Stack+Developer;Java+Developmer;Data+Analyst;Python+Developer;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7F6&width=435&lines=Python+Developer;Full+Stack+Developer;Java+Developer;Data+Analyst)](https://git.io/typing-svg)
 
-
-- 👨‍💻 Programming Languages: Python, Java, HTML, CSS & Javascript. 
-- 💻 Frontend: HTML, Tailwind CSS and React JS.
-- 🦄 Backend: NodeJS with Express, Hono
-- 📫 How to reach me: ompatil16022002@gmail.com
+<ul>
+  <li>👨‍💻 <strong>Programming Languages</strong>: Python, Java, HTML, CSS, and JavaScript</li>
+  <li>💻 <strong>Frontend</strong>: HTML, Tailwind CSS, React JS</li>
+  <li>🦄 <strong>Backend</strong>: Node.js with Express, Hono</li>
+  <li>📫 <strong>How to reach me</strong>: <a href="mailto:ompatil16022002@gmail.com">ompatil16022002@gmail.com</a></li>
+</ul>
 
 <h3>My Stats 💯</h3>
 
