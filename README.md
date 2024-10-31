@@ -1,6 +1,6 @@
 <h3>Hello, I'm Om Patil, and I specialize in:</h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7F6&width=435&lines=Full+Stack+Developer;Node.js+Backend+Expert;React+Frontend+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7F6&width=435&lines=Full+Stack+Developer;Node.js+Backend+Developer;React+Frontend+Developer)](https://git.io/typing-svg)
 
 <ul>
   <li>👨‍💻 <strong>Languages</strong>: TypeScript, Python, Java, HTML, CSS</li>
