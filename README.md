@@ -27,19 +27,16 @@
 
 ```text
 💬 Programming Languages: 
-Python                   34 mins             █████████████████████░░░░   82.60 % 
-Other                    7 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  42 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Traffic_Sign_Detection   35 mins             █████████████████████░░░░   83.32 % 
-cars.v13i.yolov8         7 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.68 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  42 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -55,7 +52,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/12/2024 19:15:41 UTC
+ Last Updated on 02/12/2024 20:20:33 UTC
 <!--END_SECTION:waka-->
 
 ![Om's GitHub stats](https://github-readme-stats.vercel.app/api?username=9OmP&show_icons=true&theme=radical)
