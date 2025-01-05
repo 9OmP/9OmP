@@ -19,7 +19,7 @@
 <!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=9OmP&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-115%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-116%20hrs%2042%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.5%20million%20lines%20of%20code-blue)
 
@@ -27,19 +27,19 @@
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 37 mins        █████████████████████████   100.00 % 
+Python                   2 hrs 15 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Cursor                   1 hr 17 mins        ████████████████████░░░░░   79.93 % 
-VS Code                  19 mins             █████░░░░░░░░░░░░░░░░░░░░   20.07 % 
+Cursor                   1 hr 55 mins        █████████████████████░░░░   85.57 % 
+VS Code                  19 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
 
 🐱‍💻 Projects: 
-poly_anno                42 mins             ███████████░░░░░░░░░░░░░░   43.51 % 
-Portfolio_Website        35 mins             █████████░░░░░░░░░░░░░░░░   36.43 % 
-Unknown Project          19 mins             █████░░░░░░░░░░░░░░░░░░░░   20.07 % 
+Portfolio_Website        1 hr 20 mins        ███████████████░░░░░░░░░░   59.80 % 
+poly_anno                34 mins             ██████░░░░░░░░░░░░░░░░░░░   25.77 % 
+Unknown Project          19 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
 
 💻 Operating System: 
-Windows                  1 hr 37 mins        █████████████████████████   100.00 % 
+Windows                  2 hrs 15 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -55,7 +55,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/01/2025 19:13:12 UTC
+ Last Updated on 05/01/2025 20:17:49 UTC
 <!--END_SECTION:waka-->
 
 ![Om's GitHub stats](https://github-readme-stats.vercel.app/api?username=9OmP&show_icons=true&theme=radical)
