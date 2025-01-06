@@ -23,6 +23,22 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.5%20million%20lines%20of%20code-blue)
 
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Python                   1 hr 21 mins        █████████████████████████   100.00 % 
+
+🔥 Editors: 
+Cursor                   1 hr 21 mins        █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+Portfolio_Website        1 hr 21 mins        █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  1 hr 21 mins        █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -36,7 +52,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/01/2025 20:18:05 UTC
+ Last Updated on 06/01/2025 21:16:45 UTC
 <!--END_SECTION:waka-->
 
 ![Om's GitHub stats](https://github-readme-stats.vercel.app/api?username=9OmP&show_icons=true&theme=radical)
