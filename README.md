@@ -27,16 +27,16 @@
 
 ```text
 💬 Programming Languages: 
-Python                   7 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  7 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-C_programming            7 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  7 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -52,7 +52,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/02/2025 19:13:45 UTC
+ Last Updated on 09/02/2025 20:16:55 UTC
 <!--END_SECTION:waka-->
 
 ![Om's GitHub stats](https://github-readme-stats.vercel.app/api?username=9OmP&show_icons=true&theme=radical)
