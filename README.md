@@ -19,7 +19,7 @@
 <!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=9OmP&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-127%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-127%20hrs%2020%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.5%20million%20lines%20of%20code-blue)
 
@@ -27,18 +27,16 @@
 
 ```text
 💬 Programming Languages: 
-YAML                     16 mins             █████████████████░░░░░░░░   69.67 % 
-Python                   5 mins              ██████░░░░░░░░░░░░░░░░░░░   22.45 % 
-Text                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  23 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Jobs_Applier_AI_Agent_AIH23 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  23 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -54,7 +52,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/02/2025 19:16:34 UTC
+ Last Updated on 28/02/2025 20:19:51 UTC
 <!--END_SECTION:waka-->
 
 ![Om's GitHub stats](https://github-readme-stats.vercel.app/api?username=9OmP&show_icons=true&theme=radical)
