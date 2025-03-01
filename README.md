@@ -19,7 +19,7 @@
 <!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=9OmP&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-127%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-128%20hrs%2022%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.5%20million%20lines%20of%20code-blue)
 
@@ -27,16 +27,22 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   38 mins             ██████████████░░░░░░░░░░░   54.97 % 
+JSON                     17 mins             ██████░░░░░░░░░░░░░░░░░░░   25.77 % 
+HTML                     13 mins             █████░░░░░░░░░░░░░░░░░░░░   18.84 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 9 mins         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Wally.v1i.yolov11        42 mins             ███████████████░░░░░░░░░░   60.82 % 
+Wally.v1i.coco           16 mins             ██████░░░░░░░░░░░░░░░░░░░   23.94 % 
+Unknown Project          10 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 9 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -52,7 +58,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/03/2025 19:13:26 UTC
+ Last Updated on 01/03/2025 20:18:17 UTC
 <!--END_SECTION:waka-->
 
 ![Om's GitHub stats](https://github-readme-stats.vercel.app/api?username=9OmP&show_icons=true&theme=radical)
