@@ -19,7 +19,7 @@
 <!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=9OmP&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-141%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-142%20hrs%2018%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.5%20million%20lines%20of%20code-blue)
 
@@ -27,18 +27,18 @@
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 51 mins        █████████████████████░░░░   83.67 % 
-Text                     21 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
+Python                   32 mins             ███████████████░░░░░░░░░░   59.68 % 
+Text                     21 mins             ██████████░░░░░░░░░░░░░░░   40.32 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 12 mins       █████████████████████████   100.00 % 
+VS Code                  53 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-django                   1 hr 42 mins        ███████████████████░░░░░░   77.35 % 
-Etas                     30 mins             ██████░░░░░░░░░░░░░░░░░░░   22.65 % 
+Etas                     30 mins             ██████████████░░░░░░░░░░░   55.90 % 
+Portfolio_Website        23 mins             ███████████░░░░░░░░░░░░░░   44.10 % 
 
 💻 Operating System: 
-Windows                  2 hrs 12 mins       █████████████████████████   100.00 % 
+Windows                  53 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -54,7 +54,7 @@ Java                     2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 13/09/2025 19:13:10 UTC
+ Last Updated on 13/09/2025 20:18:24 UTC
 <!--END_SECTION:waka-->
 
 ![Om's GitHub stats](https://github-readme-stats.vercel.app/api?username=9OmP&show_icons=true&theme=radical)
