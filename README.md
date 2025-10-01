@@ -42,17 +42,17 @@ No Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   17 repos            ██████████████░░░░░░░░░░░   56.67 % 
-JavaScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-C                        3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-Java                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+Python                   16 repos            ███████████████░░░░░░░░░░   61.54 % 
+JavaScript               4 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+HTML                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
+Java                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
 ```
 
 
 
 
- Last Updated on 01/10/2025 08:27:00 UTC
+ Last Updated on 01/10/2025 09:21:41 UTC
 <!--END_SECTION:waka-->
 
 ![Om's GitHub stats](https://github-readme-stats.vercel.app/api?username=9OmP&show_icons=true&theme=radical)
