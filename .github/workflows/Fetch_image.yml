@@ -2,7 +2,7 @@ name: Fetch Wakatime Image
 
 on:
   schedule:
-    - cron: '0 * * * *' # Runs every hour
+    - cron: '0 0 */2 * *' # Runs every hour
   workflow_dispatch: # Allows you to run the workflow manually from GitHub Actions
 
 jobs:
