@@ -19,7 +19,7 @@
 <!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=9OmP&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-150%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-154%20hrs%2024%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.46%20million%20lines%20of%20code-blue?style=flat)
 
@@ -27,19 +27,19 @@
 
 ```text
 💬 Programming Languages: 
-C                        4 hrs 6 mins        ████████████████░░░░░░░░░   62.15 % 
-JavaScript               2 hrs 29 mins       █████████░░░░░░░░░░░░░░░░   37.75 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+JavaScript               6 hrs 27 mins       ███████████████░░░░░░░░░░   61.13 % 
+C                        4 hrs 6 mins        ██████████░░░░░░░░░░░░░░░   38.80 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 36 mins       █████████████████████████   100.00 % 
+VS Code                  10 hrs 34 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Temp                     4 hrs 6 mins        ████████████████░░░░░░░░░   62.25 % 
-Web Dev                  2 hrs 29 mins       █████████░░░░░░░░░░░░░░░░   37.75 % 
+Web Dev                  6 hrs 27 mins       ███████████████░░░░░░░░░░   61.13 % 
+Temp                     4 hrs 6 mins        ██████████░░░░░░░░░░░░░░░   38.87 % 
 
 💻 Operating System: 
-Windows                  6 hrs 36 mins       █████████████████████████   100.00 % 
+Windows                  10 hrs 34 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -55,7 +55,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/02/2026 01:07:35 UTC
+ Last Updated on 15/02/2026 01:05:56 UTC
 <!--END_SECTION:waka-->
 
 ![Om's GitHub stats](https://github-readme-stats.vercel.app/api?username=9OmP&show_icons=true&theme=radical)
