@@ -19,7 +19,7 @@
 <!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=9OmP&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-155%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-155%20hrs%2038%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.46%20million%20lines%20of%20code-blue?style=flat)
 
@@ -27,16 +27,16 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               22 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  22 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Web Dev                  22 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  22 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -52,7 +52,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/03/2026 01:08:54 UTC
+ Last Updated on 03/03/2026 01:03:59 UTC
 <!--END_SECTION:waka-->
 
 ![Om's GitHub stats](https://github-readme-stats.vercel.app/api?username=9OmP&show_icons=true&theme=radical)
