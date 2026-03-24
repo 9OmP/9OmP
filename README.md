@@ -21,11 +21,46 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-157%20hrs%2027%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.46%20million%20lines%20of%20code-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 145.9 kB Used in GitHub's Storage 
+ > 
+> 🏆 6 Contributions in the Year 2026
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 32 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                72 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.91 % 
+🌆 Daytime                124 commits         ████████░░░░░░░░░░░░░░░░░   30.85 % 
+🌃 Evening                123 commits         ████████░░░░░░░░░░░░░░░░░   30.60 % 
+🌙 Night                  83 commits          █████░░░░░░░░░░░░░░░░░░░░   20.65 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   21 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
+Tuesday                  52 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
+Wednesday                48 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
+Thursday                 148 commits         █████████░░░░░░░░░░░░░░░░   36.82 % 
+Friday                   43 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
+Saturday                 31 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
+Sunday                   59 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
+```
+
 
 📊 **This Week I Spent My Time On** 
 
 ```text
+🕑︎ Time Zone: Asia/Kolkata
+
 💬 Programming Languages: 
 No Activity Tracked This Week
 
@@ -39,20 +74,12 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 ```
 
-**I Mostly Code in Python** 
+**Timeline**
 
-```text
-Python                   16 repos            ███████████████░░░░░░░░░░   61.54 % 
-JavaScript               4 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-HTML                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
-Java                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
-```
+![Lines of Code chart](https://raw.githubusercontent.com/9OmP/9OmP/main/assets/bar_graph.png)
 
 
-
-
- Last Updated on 23/03/2026 01:07:17 UTC
+ Last Updated on 24/03/2026 19:46:16 UTC
 <!--END_SECTION:waka-->
 
 ![Om's GitHub stats](https://github-readme-stats.vercel.app/api?username=9OmP&show_icons=true&theme=radical)
