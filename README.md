@@ -41,8 +41,6 @@ JavaScript               2 hrs 9 mins        ███████████�
 
 <!--END_SECTION:waka-->
 
-![Om's GitHub stats](https://github-readme-stats.vercel.app/api?username=9OmP&show_icons=true&theme=radical)
-
 ![snake gif](https://github.com/9OmP/9OmP/blob/output/github-contribution-grid-snake-dark.svg)
 
 
