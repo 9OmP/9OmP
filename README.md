@@ -22,10 +22,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                72 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.91 % 
-🌆 Daytime                124 commits         ████████░░░░░░░░░░░░░░░░░   30.85 % 
-🌃 Evening                123 commits         ████████░░░░░░░░░░░░░░░░░   30.60 % 
-🌙 Night                  83 commits          █████░░░░░░░░░░░░░░░░░░░░   20.65 % 
+🌞 Morning                72 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.87 % 
+🌆 Daytime                124 commits         ████████░░░░░░░░░░░░░░░░░   30.77 % 
+🌃 Evening                124 commits         ████████░░░░░░░░░░░░░░░░░   30.77 % 
+🌙 Night                  83 commits          █████░░░░░░░░░░░░░░░░░░░░   20.60 % 
 ```
 
 
@@ -35,7 +35,7 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               2 hrs 9 mins        █████████████████████████   100.00 % 
+JavaScript               2 hrs 10 mins       █████████████████████████   100.00 % 
 ```
 
 
