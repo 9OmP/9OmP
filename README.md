@@ -35,7 +35,7 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               1 hr 44 mins        █████████████████████████   100.00 % 
+JavaScript               0 secs              █████████████████████████   100.00 % 
 ```
 
 
