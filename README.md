@@ -35,11 +35,7 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   52 mins             ██████████████████░░░░░░░   71.55 % 
-Other                    9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
-Docker                   6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
-Bash                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+No Activity Tracked This Week
 ```
 
 
