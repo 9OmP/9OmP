@@ -35,7 +35,9 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   1 hr 21 mins        ████████████████████████░   94.54 % 
+Text                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 ```
 
 
