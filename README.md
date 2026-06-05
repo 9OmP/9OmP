@@ -35,9 +35,11 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   1 hr 21 mins        ████████████████████████░   94.54 % 
-Text                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+TypeScript               2 hrs 22 mins       ██████████████░░░░░░░░░░░   54.10 % 
+Python                   1 hr 21 mins        ████████░░░░░░░░░░░░░░░░░   30.86 % 
+Markdown                 16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
+Git Config               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
+JSON                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
 ```
 
 
