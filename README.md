@@ -19,29 +19,6 @@
 <!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=9OmP&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                72 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.87 % 
-🌆 Daytime                124 commits         ████████░░░░░░░░░░░░░░░░░   30.77 % 
-🌃 Evening                124 commits         ████████░░░░░░░░░░░░░░░░░   30.77 % 
-🌙 Night                  83 commits          █████░░░░░░░░░░░░░░░░░░░░   20.60 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-TypeScript               2 hrs 22 mins       ██████████████░░░░░░░░░░░   54.10 % 
-Python                   1 hr 21 mins        ████████░░░░░░░░░░░░░░░░░   30.86 % 
-Markdown                 16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
-Git Config               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
-JSON                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
-```
-
 
 <!--END_SECTION:waka-->
 
