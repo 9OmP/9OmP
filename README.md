@@ -35,11 +35,11 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               5 hrs 31 mins       ████████░░░░░░░░░░░░░░░░░   31.26 % 
-JSON                     4 hrs 33 mins       ██████░░░░░░░░░░░░░░░░░░░   25.81 % 
-C                        3 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
-Markdown                 2 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
-JavaScript               1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
+JSON                     10 hrs 1 min        █████████░░░░░░░░░░░░░░░░   37.22 % 
+Markdown                 8 hrs 41 mins       ████████░░░░░░░░░░░░░░░░░   32.25 % 
+C                        3 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
+TypeScript               2 hrs 48 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
+JavaScript               2 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
 ```
 
 
