@@ -35,7 +35,7 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               42 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
