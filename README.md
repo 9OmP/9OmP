@@ -37,7 +37,7 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   0 secs              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
