@@ -19,33 +19,6 @@
 <!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=9OmP&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-41%20hrs%2057%20mins-blue?style=flat)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                72 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.87 % 
-🌆 Daytime                124 commits         ████████░░░░░░░░░░░░░░░░░   30.77 % 
-🌃 Evening                124 commits         ████████░░░░░░░░░░░░░░░░░   30.77 % 
-🌙 Night                  83 commits          █████░░░░░░░░░░░░░░░░░░░░   20.60 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Python                   0 secs              █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 
 <!--END_SECTION:waka-->
 
