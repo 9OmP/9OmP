@@ -19,7 +19,7 @@
 <!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=9OmP&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-42%20hrs%2046%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-42%20hrs%2056%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -37,31 +37,34 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               33 mins             █████████████████████░░░░   82.86 % 
-CSS                      3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
-Markdown                 3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
+TypeScript               33 mins             ███████████████░░░░░░░░░░   61.81 % 
+GDScript3                6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
+JavaScript               6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
+CSS                      3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
+Markdown                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 39 mins (100.0%)
+⏱ AI Coding Time: 49 mins (92.73%)
 
-✍️ 27 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 29 lines written by AI, 68 lines written by hand (29.9% AI-written)
 
 🔤 43,272,558 Input Tokens, 3,063,528 Output Tokens
 
 💵 $194.62 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 0 AI Prompts
+🧠 2 AI Sessions, 1 AI Prompts
 
-GPT                      27 lines            █████████████████████████   100.00 % 
+GPT                      27 lines            ███████████████████████░░   93.10 % 
+Github-Copilot           2 lines             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 0 characters per prompt
+🧑‍💻 Mostly Hands-On — 29.9% of written lines came from AI
+📝 Concise Prompter — average 35 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 82.63% of changed lines were hand-edited
 ```
 
 
