@@ -37,32 +37,13 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-GDScript3                6 mins              ████████████░░░░░░░░░░░░░   48.30 % 
-JavaScript               6 mins              ███████████░░░░░░░░░░░░░░   44.11 % 
-Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
-Python                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 mins (71.38%)
-
-✍️ 2 lines written by AI, 68 lines written by hand (2.86% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 1 AI Prompts
-
-Github-Copilot           2 lines             █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 2.86% of written lines came from AI
-📝 Concise Prompter — average 35 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 98.57% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
